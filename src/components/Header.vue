@@ -4,7 +4,7 @@
       <router-link to="/portfolio">Portfolio</router-link>
     </div>
     <div class="header__logo">
-      <router-link to="/">webstroyboy</router-link>
+      <router-link to="/">ItLogOut</router-link>
     </div>
     <nav class="header__menu">
       <ul>
@@ -13,6 +13,7 @@
         <li><router-link to="/youtube">Youtube</router-link></li>
         <li><router-link to="/script">Script</router-link></li>
         <li><router-link to="/contact">Contact</router-link></li>
+        <li><router-link to="/movie">Movie</router-link></li>
       </ul>
       <a href="/" class="ham">
         <span class="sr-only">menu</span>
